@@ -63,4 +63,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 **Developed by:** Maha Ibrahim  
 Gmail: Maha.Ibrahim@stud.srh-campus-berlin.de
-[@mahaibrahim26](https://github.com/mahaibrahim26)
