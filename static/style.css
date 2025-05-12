@@ -1,0 +1,37 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+body {
+    background: linear-gradient(to right, #a1c4fd, #c2e9fb);
+    font-family: 'Segoe UI', sans-serif;
+    padding: 20px;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+    margin-bottom: 30px;
+}
+
+form {
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+input[type="text"] {
+    border-radius: 0.5rem;
+}
+
+.list-group-item {
+    background-color: white;
+    border: none;
+    border-radius: 0.5rem;
+    margin-bottom: 10px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.btn {
+    border-radius: 0.5rem;
+    font-weight: 500;
+}
